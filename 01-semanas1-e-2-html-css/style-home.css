@@ -1,48 +1,127 @@
-#banner {
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+
+.banner {
 	width:100%;
 }
 
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
+/* PRINCIPAL  */
+
+.principal {
+	background: #FEFEFE;
+	width: 940px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	padding: 40px 0;
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	text-align: center;
+	font-size: 2em;
+	font-weight: 700;
 }
 
-.titulo-centralizado {
-	text-align: center
+.principal strong {
+	font-weight: 700;
 }
 
-p {
+.principal em {
+	font-style: italic;
+}
+
+/* MAPA  */
+
+.mapa {
+	background: linear-gradient(#FEFEFE, #888888);
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	/* padding: 40px 0; */
+}
+
+.mapa-conteudo {
+	width: 940px;
+}
+
+.mapa p {
 	text-align: center;
 }
 
-#missao {
-	font-size: 20px
+.mapa-conteudo iframe{
+	width: 100%;
+	margin-top: 20px;
 }
 
-em strong {
-	color: #FF0000;
+/* BENEFICIOS  */
+
+.beneficios {
+	background: #888888;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 40px;
+	padding: 40px 0;
+}
+
+.conteudo-beneficios {
+	width: 940px;
+	display: flex;
+	/* align-items: center; */
+	justify-content: space-between;
+}
+
+.lista-beneficios {
+	font-size: 22px;
 }
 
 .itens {
-	font-style: italic
+	line-height: 2;
 }
 
-.beneficios {
-	background: #FFFFFF;
-	padding: 20px;
+.itens:first-child {
+	font-weight: bold;
 }
 
-ul {
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
+.itens:before {
+	content: "🟊";
+	margin-right: 15px;
 }
 
-.imagembeneficios {
-	width: 50%;
+.imagem-beneficios {
+	width: 60%;
+	opacity: 1;
+	transition: 400ms;
+	box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagem-beneficios:hover {
+	opacity: 0.3;
+}
+
+/* RESPONSIVO  */
+
+@media screen and (max-width:770px) {
+	.principal, .mapa-conteudo, .conteudo-beneficios {
+		width: 90%;
+	}
+
+	.beneficios {
+		gap: 10px;
+	}
+
+	.conteudo-beneficios {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.conteudo-beneficios img {
+		width: 100%;
+	}
 }
