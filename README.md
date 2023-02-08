@@ -30,3 +30,7 @@
 * Entenda as diversas propriedades do flexbox e como usá-las
 * Entenda como as propriedades do flexbox substituem float, inline e inline-block
 * Elabore um site responsivo com flexbox
+* Melhore a manutenção de códigos com variáveis CSS.
+* Escreva códigos semânticos que ajudam na acessibilidade e SEO.
+* Aprenda a lidar com adaptação de diferentes layouts.
+* Aprimore seu conhecimento de responsividade.
