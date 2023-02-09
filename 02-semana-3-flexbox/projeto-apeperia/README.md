@@ -21,8 +21,8 @@ Foram utilizadas no projeto as seguintes tecnologias e ferramentas:
  
 <h2>Links</h2>
 
-<a href="https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1&t=c8IQ5Yivqt1B6RId-0">Ver o Figma da página</a>
-<a href="https://fat-brake.surge.sh/">Visualizar a página</a>
+* <a href="https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1&t=c8IQ5Yivqt1B6RId-0">Ver o Figma da página</a>
+* <a href="https://fat-brake.surge.sh/">Visualizar a página</a>
 
 <h2>Versão para Desktop</h2>
  
