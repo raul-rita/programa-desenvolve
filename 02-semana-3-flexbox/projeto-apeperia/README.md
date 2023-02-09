@@ -19,9 +19,17 @@ Foram utilizadas no projeto as seguintes tecnologias e ferramentas:
 * Escrever códigos semânticos que ajudam na acessibilidade e SEO.
 * Adaptação de diferentes layouts com conhecimento de RESPONSIVIDADE.
  
- <h2>Versão para Desktop</h2>
+<h2>Link da página</h2>
+
+<a href="https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1&t=c8IQ5Yivqt1B6RId-0">Clica aqui para visualizar!</a>
+
+<h2>Versão para Desktop</h2>
  
 <img src="./img/tela-desktop.png">
+
+ <h2>Versão Tablet</h2>
+
+<img src="./img/tela-tablet.png">
 
  <h2>Versão Mobile</h2>
 
