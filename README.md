@@ -34,3 +34,23 @@
 * Escreva códigos semânticos que ajudam na acessibilidade e SEO.
 * Aprenda a lidar com adaptação de diferentes layouts.
 * Aprimore seu conhecimento de responsividade.
+
+<h2>Semana 4 - Figma</h2>
+
+<h3>Construindo o layout do seu site mobile</h3>
+
+* Como fazer um Sitemap
+* Conceitos básicos de criação de um site mobile
+* Conceitos e diferenças entre UX e UI
+* Para saber mais: UX no duplo diamante
+* Aprenda a construir layouts dentro da ferramenta do Figma
+* Heurísticas de Nielsen
+* Aprenda a prototipar sites com alta fidelidade
+
+ <h3>Conhecendo componentes da interface</h3>
+
+* Aprenda a criar componentes de elementos
+* Entenda como criar variações de componentes
+* Saiba como entregar produtos digitais para pessoas que trabalham com desenvolvimento
+* Entenda a importância dos componentes para padronização de projetos
+* Aprenda a criar interfaces padronizadas de forma ágil e automatizada
