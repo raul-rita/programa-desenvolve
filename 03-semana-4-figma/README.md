@@ -19,7 +19,13 @@ Foram utilizadas no projeto as seguintes tecnologias e ferramentas:
 * Construir layouts dentro da ferramenta do Figma
 * Heurísticas de Nielsen
 * Prototipar sites com alta fidelidade
+
+* Diretrizes do design de interface (Simplicidade, Hierarquia, Navegação facilitada, Padrão Visual e Responsividade)
+* Design Atômico (Átomos, Moléculas, Organismos, Templates, Telas)
+* Auto-layout
+* Componentização e variantes
  
 <h2>Links</h2>
 
-* <a href="https://www.figma.com/file/pzigmym6L9aoqhS4gD3YQl/Curso-Figma?node-id=67%3A12&t=ohb3DDtkXdRkfrmt-0">Ver o Figma da página</a>
+* <a href="https://www.figma.com/file/pzigmym6L9aoqhS4gD3YQl/Curso-Figma?node-id=67%3A12&t=ohb3DDtkXdRkfrmt-0">Figma - Versão 1</a>
+* <a href="https://www.figma.com/file/od0B0Dv2zzEZJKHjiV8f29/Curso-Figma---2?node-id=67%3A12&t=NNwoJKxkwy944DHI-0">Figma - Versão 2</a>
