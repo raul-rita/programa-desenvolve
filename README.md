@@ -54,3 +54,13 @@
 * Saiba como entregar produtos digitais para pessoas que trabalham com desenvolvimento
 * Entenda a importância dos componentes para padronização de projetos
 * Aprenda a criar interfaces padronizadas de forma ágil e automatizada
+
+<h2>Semana 5 - Figma</h2>
+
+<h3>Projete sites para diversas telas</h3>
+
+* Como projetar interfaces responsivas
+* Criar um grid para desktop e aplicamos no nosso layout
+* Ferramenta de inspecionar elementos
+* Conhecimento sobre entregas para times de desenvolvimento
+
