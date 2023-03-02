@@ -64,3 +64,11 @@
 * Ferramenta de inspecionar elementos
 * Conhecimento sobre entregas para times de desenvolvimento
 
+<h3>Design System: projetando elementos</h3>
+
+* O que são Design Systems?
+* Modelos diferentes de Design Systems e de equipes
+* Nomeação de Design Tokens
+* Escolhas visuais de produtos digitais
+* Fundamentos de um Design System
+
