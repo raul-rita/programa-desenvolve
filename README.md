@@ -72,3 +72,13 @@
 * Escolhas visuais de produtos digitais
 * Fundamentos de um Design System
 
+<h2>Semana 6 - HTTP</h2>
+
+<h3>Entendendo a web por baixo dos panos</h3>
+
+* Entenda os detalhes do protocolo HTTP
+* Saiba quando usar GET e POST
+* Estude sobre segurança na web e o HTTPS
+* A web stateful e a web stateless
+* Conheça as melhorias do HTTP/2
+
