@@ -82,3 +82,11 @@
 * A web stateful e a web stateless
 * Conheça as melhorias do HTTP/2
 
+<h2>Semana 8 - Javascript</h2>
+
+<h3>Pratique lógica de programação</h3>
+
+* Programação com JavaScript no seu Navegador
+* Variáveis e seu uso
+* Repita tarefas com laços, loops, fors e whiles
+
