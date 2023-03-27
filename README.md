@@ -90,3 +90,20 @@
 * Variáveis e seu uso
 * Repita tarefas com laços, loops, fors e whiles
 
+<h2>Semana 9</h2>
+
+<h3>JavaScript e HTML: pratique lógica com desenhos, animações e um jogo</h3>
+
+* Continue a praticar lógica com JavaScript
+* Use e abuse de funções para facilitar seu trabalho
+* Conheça o Canvas para gerar desenhos e animações
+* Revise conceitos importantes na programação
+
+<h3>Arquitetura de computadores: por trás de como seu programa funciona</h3>
+
+* Entenda como o computador lê e executa o seu programa
+* Aprenda como funcionam os principais componentes do seu computador
+* Saiba como o computador executa vários programas ao mesmo tempo
+* Entenda as limitações do seu computador para criar soluções mais efetivas
+* Veja como os dados do seu programa são armazenados na memória
+
