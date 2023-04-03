@@ -119,3 +119,10 @@
 - Expressões de função, uma maneira diferente de montar funções usando variáveis do tipo const e chamando-as pelo nome. Lembrando que é necessário que o programa passe pela variável antes de podermos chamá-la, já que não há suporte à hoisting.
 - Arrow function, uma função declarada de maneira mais compacta usando uma const. A arrow function também não tem suporte à hoisting.
 
+<h3>JavaScript: Arrays</h3>
+
+* Aprenda o que são arrays e porque são importantes
+* Veja como alterar arrays com os métodos do JS
+* Entenda o que são laços de repetição e como usá-los
+* Modifique arrays utilizando métodos do JS moderno (ES6 em diante)
+
