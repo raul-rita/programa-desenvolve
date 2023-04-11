@@ -126,3 +126,12 @@
 * Entenda o que são laços de repetição e como usá-los
 * Modifique arrays utilizando métodos do JS moderno (ES6 em diante)
 
+<h2>Semana 11</h2>
+
+<h3>JavaScript: Introdução a Programação Orientada a Objetos</h3>
+
+* Aprenda o que são objetos e por que são importantes
+* Veja como acessar dados em um objeto, alterar e adicionar com métodos do JS
+* Entenda o que são propriedades e métodos de um objeto
+* Crie objetos a partir de funções construtoras
+* Entenda o conceito de protótipos em JavaScript
