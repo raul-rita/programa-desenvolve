@@ -135,3 +135,23 @@
 * Entenda o que são propriedades e métodos de um objeto
 * Crie objetos a partir de funções construtoras
 * Entenda o conceito de protótipos em JavaScript
+
+<h2>Semana 12</h2>
+
+<h3>JavaScript: Crie páginas dinâmicas para WEB</h3>
+
+* Identificar os papéis de cada tecnologia da Web para construção de páginas
+* Associar o JavaScript com HTML através do DOM
+* Implementar funções com JavaScript
+* Investigar possibilidades de resolução de problemas de código
+* Selecionar operadores lógicos adequados para diferentes situações
+* Produzir soluções simples para páginas dinâmicas
+
+<h3>JavaScript: Manipulando o DOM</h3>
+
+* Entenda a interação do JavaScript com HTML e CSS.
+* Utilize o JavaScript em uma página real
+* Aprenda a tornar uma página dinâmica
+* Manipule dados, eventos e elementos com JavaScript
+* Entenda como o JavaScript trabalha
+* Explore, crie e declare funções no JavaScript
