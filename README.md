@@ -155,3 +155,20 @@
 * Manipule dados, eventos e elementos com JavaScript
 * Entenda como o JavaScript trabalha
 * Explore, crie e declare funções no JavaScript
+
+<h2>Semana 13</h2>
+
+<h3>Git e GitHub: repositório, commit e versões</h3>
+
+* Entenda as diferenças entre Git e GitHub
+* Aprenda os principais comandos usados no dia a dia nesta ferramenta
+* Saiba como controlar as versões de seus projetos
+* Descubra como criar estratégias de ramificações
+* Saiba como navegar no tempo através do restore
+
+<h3>JavaScript na Web: validação de Formulários e HTML5</h3>
+
+* Valide formulários utilizando as ferramentas do próprio HTML5
+* Crie suas próprias validações customizadas utilizando técnicas atuais com JavaScript
+* Aprenda como preencher campos de endereço automaticamente com requisições à API da ViaCEP
+* Aplique uma máscara monetária em campos de preço
