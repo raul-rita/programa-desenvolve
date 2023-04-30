@@ -172,3 +172,14 @@
 * Crie suas próprias validações customizadas utilizando técnicas atuais com JavaScript
 * Aprenda como preencher campos de endereço automaticamente com requisições à API da ViaCEP
 * Aplique uma máscara monetária em campos de preço
+
+<h2>Semana 14</h2>
+
+<h3>JavaScript: consumindo e tratando dados de uma API</h3>
+
+* Entenda como funciona o JavaScript assíncrono
+* Consuma a API do ViaCEP com o fetch API
+* Conheça as Promises e seus métodos
+* Saiba como utilizar async await para criar funções assíncronas
+* Trate possíveis erros de requisição retornados da API
+* Aprenda a tornar uma página de formulário estática em dinâmica
