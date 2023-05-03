@@ -183,3 +183,11 @@
 * Saiba como utilizar async await para criar funções assíncronas
 * Trate possíveis erros de requisição retornados da API
 * Aprenda a tornar uma página de formulário estática em dinâmica
+
+<h3>JS na web: CRUD com JavaScript assíncrono</h3>
+
+* Crie um CRUD utilizando o método fetch e os verbos HTTP
+* Aprenda a consumir dados de uma API e exibir no seu front-end
+* Entenda como utilizar o método fetch para consumir dados de uma API
+* Manipule os verbos HTTP através do método fetch
+* Aprenda como funcionam as promises no JavaScript
