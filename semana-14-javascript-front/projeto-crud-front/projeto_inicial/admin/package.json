@@ -1,0 +1,16 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "npx json-server --watch db.json",
+    "bs" : "browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
