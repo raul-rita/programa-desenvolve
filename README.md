@@ -191,3 +191,23 @@
 * Entenda como utilizar o método fetch para consumir dados de uma API
 * Manipule os verbos HTTP através do método fetch
 * Aprenda como funcionam as promises no JavaScript
+
+<h2>Semana 15</h2>
+
+<h3>SQL com MySQL: manipule e consulte dados</h3>
+
+* Saiba instalar e acessar o banco de dados MySQL
+* Realize consultas com SELECT e filtre com WHERE
+* Adicionando dados no banco com o INSERT
+* Atualize e apague dados com UPDATE e DELETE
+* Estruture suas tabelas com CREATE TABLE e ALTER TABLE
+
+<h3>Consultas SQL: avançando no SQL com MySQL</h3>
+
+* Pagine seus dados com LIMIT
+* Filtre consultas com HAVING
+* Entenda a diferença entre o LEFT e RIGHT JOIN
+* Saiba usar Sub-Queries
+* Use funções do MySQL
+* Ordene os seus dados usando o ORDER BY
+* Agrupe dados com GROUP BY
